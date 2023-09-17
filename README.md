@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to develop software solutions, explore new technologies and everything related to the SDLC.\
-🎓 &nbsp;I'm currently in my last term of my Software Development program.\
+💡 &nbsp; I like to develop software solutions, giving support to IT infrastructue, explore new technologies and everything related to the SDLC.\
+🎓 &nbsp;I just finished my Software Development program.\
 🌱 &nbsp;I'm currently learning about DevOps practices and tools like:
 - ![Linux](https://img.shields.io/badge/-Linux-05122A.svg?style=flat&logo=Linux&logoColor=white) 
 - ![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=Docker) 
